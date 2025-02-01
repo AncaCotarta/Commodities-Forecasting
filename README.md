@@ -65,12 +65,6 @@ Vous trouverez également des notebooks Jupyter dans le dossier Jupyter Notebook
 ```bash
 ├── data/                  # Données brutes et données traitées
 ├── notebooks/             # Notebooks pour l'exploration des données et l'analyse
-├── src/                   # Code source des scripts et modules
-│   ├── preprocessing.py   # Traitement et nettoyage des données
-│   ├── model.py           # Définition et entraînement des modèles
-│   └── forecast.py        # Génération des prévisions
-├── requirements.txt       # Liste des dépendances Python
-├── main.py                # Script principal pour exécuter le pipeline
 └── README.md              # Ce fichier
 ```
 
